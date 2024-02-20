@@ -4,5 +4,6 @@
     "name": "Map-Packs Be Gone!",
     "version": "v1.0.0",
     "developer": "Endrei",
-    "description": "Removes the Map-Packs!"
+    "description": "Removes the Map-Packs!",
+    "repository": "https://github.com/EnderTheDeveloper/mappackremover"
 }
